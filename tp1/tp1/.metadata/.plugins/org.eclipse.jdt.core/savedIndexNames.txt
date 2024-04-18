@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+/Users/hamzaboukaftane/Documents/BacPoly/Poly_été_2023/INF3405_TP/tp1/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+398918657.index
+3525260285.index
+3520441774.index
